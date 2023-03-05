@@ -16,11 +16,6 @@
 </a></span>
 </h3>
 
-## <div>
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/ilguarnieri/js-campominato">
-</p>
-</div>
 
 ## ⛏️ Tecnologies, addons and plugins used
 - [HTML](https://html.com);
