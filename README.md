@@ -18,7 +18,7 @@
 
 ## <div>
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/ilguarnieri/js-campominato-dom">
+<img src="https://img.shields.io/github/languages/top/ilguarnieri/js-campominato">
 </p>
 </div>
 
