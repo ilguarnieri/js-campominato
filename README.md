@@ -11,7 +11,7 @@
 
 <h3 align="center">
 𝙑𝙞𝙚𝙬 𝙨𝙞𝙩𝙚
-<span><a href="https://ilguarnieri.github.io/js-campominato-dom/" target="_blank">
+<span><a href="https://ilguarnieri.github.io/js-campominato/" target="_blank">
 <img src="https://img.shields.io/badge/-CLICK%20HERE-brightgreen">
 </a></span>
 </h3>
